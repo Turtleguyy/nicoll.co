@@ -1,0 +1,23 @@
+body {
+    position: relative;
+    margin: 0;
+    height: 100vh;
+    height: 100dvh;
+    background: url("us.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+a {
+    top: 0;
+    width: 50%;
+    height: 100%;
+    position: absolute;
+}
+
+a.zach {
+    left: 0;
+}
+
+a.alyssa {
+    right: 0;
+}
